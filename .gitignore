@@ -1,3 +1,6 @@
 .DS_Store
 .idea
 .ipynb_checkpoints
+
+datos_abiertos_*.csv
+nomenclatura*.csv
